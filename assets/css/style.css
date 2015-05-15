@@ -1,0 +1,19 @@
+.pk-header-page {
+    height: 250px;
+    position: relative;
+    padding: 30px 15px;
+    text-align: center;
+    color: rgba(255, 255, 255, .8);
+    background-color: #18bc9c;
+    background-image: url(../img/bg.png);
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.tag-heading {
+    font-size: 75px;
+    letter-spacing: -2px;
+    line-height: 1;
+    text-shadow: 4px 3px 0px #1d9d74, 9px 8px 0px rgba(0, 0, 0, 0.15);
+    margin: 0 0 15px;
+}

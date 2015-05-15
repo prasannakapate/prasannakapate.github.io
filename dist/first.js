@@ -1,0 +1,1 @@
+function myFristFunction(){return"first"}
