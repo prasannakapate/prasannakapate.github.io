@@ -1,0 +1,23 @@
+{
+  "name": "prasannakapate.github.io",
+  "version": "0.0.1",
+  "description": "Useful Front-end site",
+  "main": "index.html",
+  "authors": [
+    "prasanna kapate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  },
+  "devDependencies": {
+    "angularjs": "~1.3.15"
+  }
+}
