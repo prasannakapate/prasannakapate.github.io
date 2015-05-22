@@ -1,3 +1,27 @@
+#my-footer {
+    background-color: #18bc9c;
+}
+
+#my-footer a {
+    color:#D9EDF7;
+}
+
+.social-gt:hover {
+    color: #000000;
+}
+
+.social-tw:hover {
+    color: #4099FF;
+}
+
+.social-gp:hover {
+    color: #d34836;
+}
+
+.social-em:hover {
+    color: #f39c12;
+}
+
 .pk-header-page {
     height: 250px;
     position: relative;
