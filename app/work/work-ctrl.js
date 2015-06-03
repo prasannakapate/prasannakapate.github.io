@@ -3,13 +3,13 @@
 
     angular
         .module('feApp')
-        .controller('AboutCtrl', AboutCtrl);
+        .controller('WorkCtrl', WorkCtrl);
 
-    AboutCtrl.$inject = ['$scope'];
-    function AboutCtrl($scope) {
+    WorkCtrl.$inject = [];
+    function WorkCtrl() {
         /*jshint validthis: true */
         var vm = this;
-        vm.title = 'About under construction';
+        vm.title = 'under construction';
 
         activate();
 
