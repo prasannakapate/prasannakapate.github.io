@@ -9,7 +9,7 @@
 
 	function SkillsCtrl($scope){
 		var vm = this;
-		vm.title = "Skills under construction";
+		vm.title = "Skills";
 	}
 
 })();
