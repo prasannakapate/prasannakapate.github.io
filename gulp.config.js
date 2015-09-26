@@ -6,9 +6,11 @@ module.exports = function() {
         /**
          *Files paths
          */
-        alljs: ['./src/**/*.js', './*.js'],
 
-        less: client + '/styles/styles.less'
+        //all js to vet
+        alljs: ['./app/**/*.js'],
+
+        less: ['./src/client/styles/styles.less']
     };
 
     return config;
